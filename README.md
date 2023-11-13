@@ -62,17 +62,17 @@ accuracy
 
 ## Output:
 ## RESULT OUTPUT
-![SVM For Spam Mail Detection](o1.png)
+![SVM For Spam Mail Detection](op1.png)
 ## DATA HEAD()
-![alt](o2.png)
+![alt](op2.png)
 ## DATA INFO()
-![alt](o3.png)
+![alt](op3.png)
 ## DATA ISNULL().SUM()
-![alt](o4.png)
+![alt](op4.png)
 ## Y_PREDICTION VALUE
-![ALT](o5.png)
+![ALT](op6.png)
 ## ACCURACY VALUE
-![ALT](o6.png)
+![ALT](op7.png)
 
 
 ## Result:
